@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    color:aliceblue;
+}
+
+.container {
+    max-width: 500px;
+    color:black;
+}
+
+#info-clima {
+    transition: all 0.5s ease-in-out;
+}
+
+.shadow-sm {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
