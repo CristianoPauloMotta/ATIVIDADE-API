@@ -1,5 +1,5 @@
 const weatherApiKey = "cd4f75692916e00e94c5910b5b037e69"; 
-const geoApiKey = ""; 
+const geoApiKey = "96efd785436e4ee6b1803c2aa2123fbf"; 
 
 function getWeatherByCity() {
     const city = document.getElementById("city-input").value.trim();
